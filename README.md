@@ -40,6 +40,8 @@ Hi, I'm Tarang Dave — a software engineer at Amazon. I live in SF Bay Area, CA
 **Get in touch**
 @ https://tarangdave.github.io/
 
+**Like my work, feel free to** [buy me a coffee](https://www.buymeacoffee.com/tarangdave)
+
 ![Tarang's github stats](https://github-readme-stats.vercel.app/api?username=tarangdave&show_icons=true&theme=dracula)
 
 <!--
