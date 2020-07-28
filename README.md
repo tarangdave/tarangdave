@@ -4,19 +4,19 @@ Hi, I'm Tarang Dave — a software engineer at Amazon. I live in SF Bay Area, CA
 
 <!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 
-<a href="https://www.linkedin.com/in/tarangdave/">
+<a target="_blank" href="https://www.linkedin.com/in/tarangdave/">
   <img align="left" alt="Tarang's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.twitter.com/tarangadave">
+<a target="_blank" href="https://www.twitter.com/tarangadave">
   <img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/_t.dave_/">
+<a target="_blank" href="https://www.instagram.com/_t.dave_/">
   <img align="left" alt="Tarang's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.medium.com/@tarangadave">
+<a target="_blank" href="https://www.medium.com/@tarangadave">
   <img align="left" alt="Tarang's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://www.youtube.com/c/tarangdave_777">
+<a target="_blank" href="https://www.youtube.com/c/tarangdave_777">
   <img align="left" alt="Tarang's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <br />
