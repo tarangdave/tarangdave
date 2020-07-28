@@ -19,7 +19,11 @@ Hi, I'm Tarang Dave — a software engineer at Amazon. I live in SF Bay Area, CA
 <a href="https://www.youtube.com/c/tarangdave_777">
   <img align="left" alt="Tarang's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<br>
+<br />
+<br />
+
+
+
 
 **Languages and Tools:**  
 
