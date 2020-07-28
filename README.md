@@ -38,9 +38,7 @@ Hi, I'm Tarang Dave — a software engineer at Amazon. I live in SF Bay Area, CA
 
 
 **Get in touch**
-- Twitter: https://twitter.com/tarangadave
-- Personal site: https://tarangdave.github.io/
-- IG: https://instagram.com/_t.dave_
+@ https://tarangdave.github.io/
 
 ![Tarang's github stats](https://github-readme-stats.vercel.app/api?username=tarangdave&show_icons=true&theme=dracula)
 
