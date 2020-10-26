@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-Hi, I'm Tarang Dave — a software engineer at Amazon. I live in SF Bay Area, CA and am from India 🇮🇳. I'm a hyperventilating geek, 🙌 naive video editor and an aspiring film maker 🌟.
+Hi, I'm Tarang Dave — a software engineer at Amazon. I live in Seattle, WA and am from India 🇮🇳. I'm a hyperventilating geek, 🙌 naive video editor and an aspiring film maker 🌟.
 
 <!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 
