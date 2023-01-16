@@ -10,7 +10,7 @@ Hi, I'm Tarang Dave — a software engineer at Amazon. I live in Seattle, WA and
 <a target="_blank" href="https://www.twitter.com/tarangadave">
   <img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/_t.dave_/">
+<a target="_blank" href="https://www.instagram.com/biryanireadyhai/">
   <img align="left" alt="Tarang's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a target="_blank" href="https://www.medium.com/@tarangadave">
@@ -42,7 +42,7 @@ Hi, I'm Tarang Dave — a software engineer at Amazon. I live in Seattle, WA and
 
 **Like my work, feel free to** [buy me a coffee](https://www.buymeacoffee.com/tarangdave)
 
-![Tarang's github stats](https://github-readme-stats.vercel.app/api?username=tarangdave&show_icons=true&theme=dracula)
+<!-- ![Tarang's github stats](https://github-readme-stats.vercel.app/api?username=tarangdave&show_icons=true&theme=dracula) -->
 
 <!--
 **tarangdave/tarangdave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
